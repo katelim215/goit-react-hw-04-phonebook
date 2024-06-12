@@ -1,0 +1,13 @@
+.filterContainer {
+    display: block;
+}
+
+.filterLabel {
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+}
+
+.filterInput {
+    margin-top: 5px;
+}

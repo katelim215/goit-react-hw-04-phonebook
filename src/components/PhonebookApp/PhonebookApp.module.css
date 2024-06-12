@@ -1,0 +1,33 @@
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start
+}
+
+.pageTitle {
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.sectionTitle {
+    font-size: 35px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
